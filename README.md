@@ -1,5 +1,17 @@
 ## Hello! I'am Natasha Fernanda, Python Developer!
 
+---
+
+# 👋 Salve Devs !
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Meu nome é Natasha Fernanda,e sou progamadora Python
+
+
+
+---
+
 
   <div align="center">
   <a href="https://github.com/sznatty">
