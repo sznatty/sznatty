@@ -6,7 +6,7 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Meu nome é Natasha Fernanda,e sou progamadora Python
+Meu nome é Natasha Fernanda, e sou progamadora Python
 
 
 
@@ -47,7 +47,10 @@ Meu nome é Natasha Fernanda,e sou progamadora Python
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-<!---
-GGgigigante/GGgigigante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
+  </a>
+</div>
