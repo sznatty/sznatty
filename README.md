@@ -13,6 +13,8 @@ Meu nome é Natasha Fernanda, e sou progamadora Python
 ---
 
 
+##
+
   <div align="center">
   <a href="https://github.com/sznatty">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=pauloVarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
